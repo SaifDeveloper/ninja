@@ -1,0 +1,37 @@
+[{
+	"name": "Rahul",
+	"avg": 40,
+	"earnings": 100,
+	"available": false,
+	"car": "red",
+	"thumb":"content/images/face1.png"
+}, {
+	"name": "Vijay",
+	"avg": 45,
+	"earnings": 400,
+	"available": true,
+	"car": "orange",
+	"thumb":"content/images/face2.png"
+}, {
+	"name": "Pujara",
+	"avg": 48,
+	"earnings": 300,
+	"available": true,
+	"car": "blue",
+	"thumb":"content/images/face3.png"
+
+}, {
+	"name": "Kohli",
+	"avg": 51,
+	"earnings": 800,
+	"available": true,
+	"car": "silver",
+	"thumb":"content/images/face4.png"
+}, {
+	"name": "Rahane",
+	"avg": 42,
+	"earnings": 200,
+	"available": true,
+	"car": "black",
+	"thumb":"content/images/face5.png"
+}]

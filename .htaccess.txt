@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# HTID:394828: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+php_value display_errors 1
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:394828:
+
+RewriteEngine On
+
+	RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -f [OR]
+	RewriteCond %{DOCUMENT_ROOT}%{REQUEST_URI} -d [OR]
+	RewriteRule ^/index.html
